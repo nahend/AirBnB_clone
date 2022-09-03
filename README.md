@@ -122,5 +122,5 @@ $
 ```
 
 ### Authors
-Nahom Girmatsion https://github.com/nahend
+Nahom Girmatsion https://github.com/nahend  
 Enock Nyakamba 
